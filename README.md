@@ -27,7 +27,7 @@ Before running the script, you need to set up your Steam API key and Steam IDs i
 
 1. Open the script file `steam_status_tracker.py` in a text editor.
 
-2. Locate the following lines and replace the placeholder values with your actual API key and Steam IDs:
+2. Locate the following lines and replace the placeholder values with your Steam API key and Steam IDs:
 
     ```python
     API_KEY = 'YOUR_API_KEY'
@@ -54,5 +54,7 @@ The script logs the data in two files:
 
 ## Notes
 
-- Make sure to keep your API key secure and not share it with anyone.
-- The script checks the status every minute by default, but you can modify the `time.sleep(60)` line in the script to adjust the frequency of checks according to your preference.
+- The script will automatically create the `steam_data_log.txt` and `status_changes_log.txt` in the folder.
+- You can track one or two Steam accounts at the same time with the script. Replace "None" with a SteamID and it'll track it as well.
+- The script checks the status every minute by default, but you can modify the `time.sleep(60)` line in the script to adjust to your preference.
+- Do not remove the '' in the `YOUR_API_KEY` or `STEAM_ID_1`
