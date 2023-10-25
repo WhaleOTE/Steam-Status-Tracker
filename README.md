@@ -7,7 +7,11 @@ Steam Status Tracker is a Python script that monitors one or more Steam accounts
 
 ## Requirements
 
-- Python 3.x installed. You can download it from [here](https://www.python.org/downloads/).
+- Python 3.x or higher installed. You can download it from [here](https://www.python.org/downloads/).
+- Steam API key. You can obtain it by following these steps:
+  1. Visit the Steam API Key registration page [here](https://steamcommunity.com/dev/apikey).
+  2. Sign in with your Steam account.
+  3. Agree to the terms and conditions, and you will receive your unique API key.
 
 ## Installation
 
@@ -25,9 +29,9 @@ Steam Status Tracker is a Python script that monitors one or more Steam accounts
 
 ## Configuration
 
-Before running the script, you need to set up your API key and Steam IDs in the script. Follow the steps below:
+Before running the script, you need to set up your Steam API key and Steam IDs in the script. Follow the steps below:
 
-1. Open the script file `steam_status_checker.py` in a text editor.
+1. Open the script file `steam_status_tracker.py` in a text editor.
 
 2. Locate the following lines and replace the placeholder values with your actual API key and Steam IDs:
 
