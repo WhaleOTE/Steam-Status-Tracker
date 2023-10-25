@@ -1,4 +1,4 @@
-# Steam Status Checker
+# Steam Status Tracker
 
 Steam Status Tracker is a Python script that monitors one or more Steam accounts' activity status and logs the data in a file. It utilizes the Steam API to fetch the current status of the Steam IDs at regular intervals. The script logs the data in two separate log files, `steam_data_log.txt` and `status_changes_log.txt`.
 
