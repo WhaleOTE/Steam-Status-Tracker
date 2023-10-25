@@ -42,9 +42,9 @@ Before running the script, you need to set up your Steam API key and Steam IDs i
 
 Open a terminal or command prompt and navigate to the directory where the script is located. Then, execute the following command:
 
-    ```bash
-    python steam_status_tracker.py
-    ```
+```bash
+python steam_status_tracker.py
+```
 
 The script will start monitoring the online status of the Steam IDs and will log the data in the specified log files. You can stop the script at any time by pressing `Ctrl + C` in the terminal.
 
