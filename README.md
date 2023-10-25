@@ -4,7 +4,7 @@
 
 Steam Status Tracker is a Python script that monitors one or more Steam accounts' activity status and logs the data in a file. It utilizes the Steam API to fetch the current status of the Steam IDs at regular intervals. The script logs the data in two separate log files, `steam_data_log.txt` and `status_changes_log.txt`. 
 
-Want to know when a user logs on or off Steam? Track any unprivated Steam account's activity. I would highly recommend privating your profile or disabling Steam from auto startup to protect your privacy as this can be used to monitor your daily activity.
+Want to know when a user logs onto or off Steam? I would highly recommend privating your profile or disabling Steam from auto startup to protect your privacy as this can be used to monitor your daily activity.
 
 ## Requirements
 
