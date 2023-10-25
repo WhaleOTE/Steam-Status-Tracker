@@ -57,5 +57,5 @@ The script logs the data in two files:
 - The script will automatically create the `steam_data_log.txt` and `status_changes_log.txt` in the folder.
 - You can track one or two Steam accounts at the same time with the script. Replace "None" with a SteamID and it'll track it as well.
 - The script checks the status every minute by default, but you can modify the `time.sleep(60)` line in the script to adjust to your preference.
-- Do not remove the '' in the `YOUR_API_KEY` or `STEAM_ID_1`
+- Do not remove the '' in the `'YOUR_API_KEY'` or `'STEAM_ID_1'`.
 - You are limited to one hundred thousand (100,000) calls to the Steam Web API per day.
