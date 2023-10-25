@@ -12,7 +12,7 @@ Steam Status Tracker is a Python script that monitors one or more Steam accounts
 1. Clone the repository or download the script directly.
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/WhaleOTE/Steam-Status-Tracker.git
     ```
 
 2. Install the necessary dependencies using pip.
