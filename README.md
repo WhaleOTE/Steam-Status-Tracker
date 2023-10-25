@@ -61,3 +61,6 @@ The script logs the data in two files:
 - The script checks the status every minute by default, but you can modify the `time.sleep(60)` line in the script to adjust to your preference.
 - Do not remove the '' in the `'YOUR_API_KEY'` or `'STEAM_ID_1'`.
 - You are limited to one hundred thousand (100,000) calls to the Steam Web API per day.
+
+## Disclaimer
+This script is for educational and demononstration purposes. Use at your own discretion. Track any unprivated Steam account's activity. Disable Steam from auto startup to protect your privacy.
